@@ -1,6 +1,30 @@
-# COVID19-Social-Distancing-Order-Simulator
-This project is the final project of my ECE 5 class, Introduction to Electrical and Computer Engineering, at the University of California San Diego. In this project, my team made a complete Lab Assignment, in which the final challenge is to make a simulator that simulates the COVID19 Social-Distancing-Order implemented in many countries during the pandemic.
+# COVID19 Social-Distancing-Order Simulator
 
-For the the codes, videos, images, and documentation of the COVID19 Social-Distancing-Order-Simulator, go to the file "COVID19 Social-Distancing-Order-Simulator".
+The Coronavirus pandemic has made detrimental impacts to everyone in the world. It destroys businesses, limits educations to online learning, and in the worst case, it takes away people’s life. Besides putting our hopes and faith to scientists and researchers in finding a cure or vaccine to this virus, we can do them and the frontliners a favor by maintaining social distancing, one of the easiest yet neglected way to fight this virus.
 
-If you want to look at the entire Lab Assignment project which consist of 5 challenges, navigate yourself to Link - ECE 5 FALL20 Final Project (ALL FILES), download the pdf, and click on the link. It will take you to a google drive page that contains all the files for the whole Lab Assignment.
+In this project, my team built a system that simulates social distancing practice. We coded a program that tells the Buzzer to beep and the LCD screen to print “You’re too close, maintain social distancing!” whenever the Ultrasonic Sensor detects an object within 6 cm (to simulate the 6 feet social distancing order). If the object is between 6 cm to 15 cm, the LCD screen will print the message: “You’re good. You’re 6 feet away!”.  Otherwise, the screen won't print any message.
+
+In line with making this project as a challenge for future students in the ECE 5 class, Introduction to Electrical and Computer Engineering, at the University of California San Diego, we designed it in a way that it requires only easy-to-find and common electronic components as follows:
+
+Electronics
+1. Arduino MEGA board (1)
+2. Jumper Wires (> = 7)
+3. Ultrasonic Sensor (1)
+4. Piezo Buzzer (1)
+5. I2C LCD Screen (1)
+6. Breadboard (2)
+
+Software:
+1. Arduino IDE
+2. LiquidCrystal_PCF8574.h
+
+**Besides the COVID19 Social-Distancing-Order Simulator challenge in this project, there are 4 other challenges which precede it. Navigate to the file named Documentation if you would like to try these other challenges.**
+
+**If, in any case, you were unable to complete this project successfully due to any difficulties, navigate to the file named Documentation, and start from Challenge 1. This documentation will walk you through steps by steps.**
+
+**All solutions for the code in the Documentation is available in the file named Link – ALL FILES. Navigate to this file, download this pdf, and click on the link you see on the first page. This link will take you to a google drive folder containing all the files for the entire project. There is also a presentation video by my team, included in the folder. Feel free to watch it!**
+
+My Team:
+Muhammad Arsani
+Ankeen Arestakesyan (Github Username: Ankeen-A)
+Nada Ali
