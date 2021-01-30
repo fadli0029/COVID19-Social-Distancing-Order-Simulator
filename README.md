@@ -4,6 +4,10 @@ The Coronavirus pandemic has made detrimental impacts to everyone in the world. 
 
 In this project, my team built a system that simulates social distancing practice. We coded a program that tells the Buzzer to beep and the LCD screen to print “You’re too close, maintain social distancing!” whenever the Ultrasonic Sensor detects an object within 6 cm (to simulate the 6 feet social distancing order). If the object is between 6 cm to 15 cm, the LCD screen will print the message: “You’re good. You’re 6 feet away!”.  Otherwise, the screen won't print any message.
 
+
+![alt text](https://github.com/fadli0029/COVID19-Social-Distancing-Order-Simulator/blob/main/COVID19%20Social-Distancing-Order%20Simulator/Images/image%202.jpg?raw=true)
+
+
 In line with making this project as a challenge for future students in the ECE 5 class, Introduction to Electrical and Computer Engineering, at the University of California San Diego, we designed it in a way that it requires only easy-to-find and common electronic components as follows:
 
 Electronics
