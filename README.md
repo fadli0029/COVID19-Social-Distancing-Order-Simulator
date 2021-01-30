@@ -1,5 +1,5 @@
 # COVID19-Social-Distancing-Order-Simulator
-This project is the final project of my ECE 5 class, where my team made a complete Lab Assignment, in which the final challenge is to make a simulator that simulates the COVID19 Social-Distancing-Order implemented in many countries during the pandemic.
+This project is the final project of my ECE 5 class, Introduction to Electrical and Computer Engineering, at the University of California San Diego. In this project, my team made a complete Lab Assignment, in which the final challenge is to make a simulator that simulates the COVID19 Social-Distancing-Order implemented in many countries during the pandemic.
 
 For the the codes, videos, images, and documentation of the COVID19 Social-Distancing-Order-Simulator, go to the file "COVID19 Social-Distancing-Order-Simulator".
 
