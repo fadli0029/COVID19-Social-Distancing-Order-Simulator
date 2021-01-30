@@ -25,6 +25,6 @@ Software:
 **All solutions for the code in the Documentation is available in the file named Link – ALL FILES. Navigate to this file, download this pdf, and click on the link you see on the first page. This link will take you to a google drive folder containing all the files for the entire project. There is also a presentation video by my team, included in the folder. Feel free to watch it!**
 
 My Team:
-Muhammad Arsani
-Ankeen Arestakesyan (Github Username: Ankeen-A)
-Nada Ali
+1. Muhammad Arsani
+2. Ankeen Arestakesyan (Github Username: Ankeen-A)
+3. Nada Ali
